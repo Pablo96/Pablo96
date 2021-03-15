@@ -7,6 +7,11 @@ You can see more of it [here](https://github.com/LlamaTechnologies/LlamaLang)
 #### 👯 I’m looking to collaborate on:
 - [llir/llvm](https://github.com/llir/llvm)
 - [SanderOS](https://github.com/AdeRegt/SanderOSUSB)
+
+---
+#### My organization
+I created a GitHub oganization [LlamaTechnologies](https://github.com/LlamaTechnologies) to host all my serious repos.  
+Follow my activity there.
 ---
 #### ⚡ Fun fact:
 I have remade my game engine llamathrust 3 times and tried to implement my llamalang compiler in C# and GO
