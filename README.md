@@ -11,5 +11,5 @@ You can see more of it [here](https://github.com/LlamaTechnologies/LlamaLang)
 #### ⚡ Fun fact:
 I have remade my game engine llamathrust 3 times and tried to implement my llamalang compiler in C# and GO
 ---
-#### Contact
+### Contact me
 I hope you enjoy looking through my profile and if you would like to reach me feel free to [send me an email](pnarvaja.21@gmail.com)
