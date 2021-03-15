@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my profile! 👋
 
-<!--
-**Pablo96/Pablo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on:
+LlamaLang a modern language inspired in Go with memory management completely manual and some additions to make it easier.  
+You can see more of it [here](https://github.com/LlamaTechnologies/LlamaLang)
+---
+## 👯 I’m looking to collaborate on:
+- [llir/llvm](https://github.com/llir/llvm)
+- [SanderOS](https://github.com/AdeRegt/SanderOSUSB)
+---
+## ⚡ Fun fact:
+I have remade my game engine llamathrust 3 times and tried to implement my llamalang compiler in C# and GO
+---
+I hope you enjoy looking through my profile and if you would like to reach me feel free to [send me an email](pnarvaja.21@gmail.com)
